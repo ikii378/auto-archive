@@ -1,4 +1,4 @@
-const bearerToken = 'tma user=%7B%22id%22%3A6661483037%2C%22first_name%22%3A%22Cia%22%2C%22last_name%22%3A%22Chi%22%2C%22username%22%3A%22lusips%22%2C%22language_code%22%3A%22id%22%2C%22allows_write_to_pm%22%3Atrue%7D&chat_instance=9062703316693926100&chat_type=sender&auth_date=1717402298&hash=96b5f364a81571bc245fe2668e4de64d4450556cc321d0390a3d9b71198f7f6d'; // Ganti token dengan token yang valid
+const bearerToken = ''; // Ganti token dengan token yang valid
  
 async function checkCoin() {
   const apiUrl = 'https://wapi.spell.club/user';
