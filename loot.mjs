@@ -75,7 +75,7 @@ const main = async () => {
                         catatError(`Element tidak ditemukan: ${clickError}`);
                     }
                     
-                    await tungguDenganHitungMundur(21 * 60 * 1000);
+                    await tungguDenganHitungMundur(16 * 60 * 1000);
                     console.log("Waktu habis!");
 
                 } catch (error) {
